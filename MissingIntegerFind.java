@@ -24,7 +24,7 @@ public class MissingIntegerFind {
 			int diff = num2 - num1;
 			if (diff > 1) {
 				int missingElement = ++num1;
-				System.out.println("\n" + "Missing Element in given Array: " + missingElement);
+				System.out.println("\n" + "Missing Elements in given Array: " + missingElement);
 				continue;
 			}}}}
 		
